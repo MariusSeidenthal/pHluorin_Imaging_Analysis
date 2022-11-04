@@ -25,7 +25,7 @@ Select Main folder to analyze.
 
 Enter the pulse start (number of frames until start of stimulation): up to this point the values will be normalized
 
-Enter the pulse length(length of stimulation in frames): important for signal calculation and normalization to maximum during pulse
+Enter the pulse length (length of stimulation in frames): important for signal calculation and normalization to maximum during pulse
 
 Enter the framerate in frames per second (fps)
 
