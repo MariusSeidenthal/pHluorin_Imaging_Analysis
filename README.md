@@ -34,9 +34,9 @@ Check bleach correction if linear bleach correction should be performed (should 
 Check Filter, if you want to filter animals according to whether they show a strong signal during stimulation:
 >For this, the maximum background corrected fluorescence during stimulation was calculated (moving average of 1 s). If this was higher than the average background corrected fluorescence before the stimulation + 3 * standard deviation (of background corrected fluorescence before stimulation), the animal was counted as a strong responder. 
 
-Filtered animals are discarded
+Filtered animals are discarded.
 
-Run the program
+Run the program.
 
 4. Output:
 You will get two excel files per subfolder/condition. One shows the background corrected fluorescence normalized to the average before stimulation of each measurement (∆F/F0). The second will display the background corrected fluorescence normalized to the average before stimulation and additionally normalized to the maximum value during stimulation (minimum-maximum normalization).
